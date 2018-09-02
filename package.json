@@ -1,0 +1,22 @@
+{
+  "name": "seleniumTest",
+  "version": "1.0.0",
+  "description": "selenium browser test",
+  "main": "part2.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
